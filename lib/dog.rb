@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 class Dog
 
@@ -13,3 +14,7 @@ end
 end #for the creation of the dog class
 
 
+=======
+class Dog
+end
+>>>>>>> 73e8998a054655b97e2b9f02fca213d7ed93b4b9
